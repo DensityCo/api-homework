@@ -35,7 +35,7 @@ Items to take into consideration:
 
 - DPUs are sometimes moved from one doorway to another.
 - DPUs sometimes send events out of order.
-- DPUs sometimes send events at a delay.
+- DPUs don't always send data up in real-time. Network downtime and other events can cause delayed events.
 
 
 ## Deliverables
