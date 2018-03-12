@@ -43,7 +43,8 @@ Items to take into consideration:
 For delivery of this assignment, we'd like to see:
 
 - Database schema / SQL file.
-- Protoype Python application that includes a single endpoint for current count. Focus on prototyping database query / API implementation and don't worry about best-practices with app structure.
+- Prototype a Python application that yields the current count of a given space at a given point in time. For example, "what was the count at 3:34pm yesterday?"
+- Focus on prototyping database query / API implementation and don't worry about best-practices with app structure.
 - Documentation on real-time and historical use-cases.
 - Documentation on production technologies.
 
